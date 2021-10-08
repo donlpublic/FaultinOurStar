@@ -1,11 +1,11 @@
 # The shortage economy
-# 短缺经济
+# 供给不足
 
 ## The world economy’s shortage problem
 ## 世界经济的短缺问题
 
 ### Scarcity has replaced gluts as the biggest impediment to global growth
-### 稀缺性已经取代过剩成为全球增长的最大障碍
+### 物资稀缺已经取代供应过剩，成为全球增长的最大障碍
 
 
 Oct 9th 2021
@@ -13,7 +13,7 @@ Oct 9th 2021
 
 For a decade after the financial crisis the world economy’s problem was a lack of spending. Worried households paid down their debts, governments imposed austerity and wary firms held back investment, especially in physical capacity, while hiring from a seemingly infinite pool of workers. Now spending has come roaring back, as governments have stimulated the economy and consumers **let rip**. The surge in demand is so powerful that supply is struggling to keep up. Lorry drivers are getting signing bonuses, an armada of container ships is anchored off California waiting for ports to clear and energy prices are **spiralling** upwards. As rising inflation spooks investors, the gluts of the 2010s have given way to a shortage economy.
 
-金融危机后的十年间，世界经济的问题是缺乏支出。忧心忡忡的家庭偿还了债务，政府实行了紧缩政策，警惕性很高的公司减少了投资，特别是在物质能力方面，同时从一个看似无限的工人库中招聘。现在，随着政府对经济的刺激和消费者对经济的渴望，支出又开始了。需求的激增是如此强大，以至于供应都在努力跟上。货车司机获得了签约奖金，一支集装箱船舰队停泊在加利福尼亚附近，等待港口清关，能源价格螺旋式上升。随着通货膨胀率的上升，投资者受到惊吓，2010年代的供应过剩已经让位于短缺经济。
+金融危机后的十年间，世界经济面临的问题是缺乏支出。忧心忡忡的家庭偿还了他们的债务，政府实行了紧缩政策，警惕性很高的公司减少了投资，特别是在实体资源方面，同时也在从一个看似深不见底的人才库中进行招聘。现在，随着政府对经济的刺激和消费者报复性的消费，消费支出又开始回暖了。需求的激增是如此强大，以至于供给方都跟不上节奏了。货车司机获得了签字费，一支集装箱船舰队停泊在加利福尼亚附近，等待港口清关，能源价格螺旋式上升。随着通货膨胀率的上升，投资者受到惊吓，2010年代的供应过剩已经不再，取而代之的是经济种的供应稀缺。
 
 注释：
 
@@ -23,7 +23,7 @@ For a decade after the financial crisis the world economy’s problem was a lack
 
 The immediate cause is covid-19. Some $10.4trn of global stimulus has unleashed a furious but lopsided rebound in which consumers are spending more on goods than normal, stretching global supply chains that have been starved of investment. Demand for electronic goods has boomed during the pandemic but a shortage of the microchips inside them has struck industrial production in some exporting economies, such as Taiwan. The spread of the Delta variant has shut down clothing factories in parts of Asia. **In the rich world migration is down, stimulus has filled bank accounts and not enough workers fancy shifting from out-of-favour jobs like selling sandwiches in cities to in-demand ones such as warehousing. From Brooklyn to Brisbane, employers are in a mad scramble for extra hands.**
 
-其直接原因是covid-19。约10.4万亿美元的全球经济刺激措施引发了一场狂热但片面的反弹，消费者在商品上的支出超过了正常水平，使一直缺乏投资的全球供应链变得紧张。电子产品的需求在大流行期间蓬勃发展，但是里面的微芯片的短缺已经打击了一些出口经济体的工业生产，例如台湾。三角洲变种的传播使亚洲部分地区的服装厂停工。在富裕国家，移民减少了，刺激措施填满了银行账户，没有足够的工人愿意从城市里卖三明治等不受欢迎的工作转向仓储等有需求的工作。从布鲁克林到布里斯班，雇主们都在疯狂争夺额外的人手。
+其直接原因是covid-19。约10.4万亿美元的全球经济刺激措施引发了一场疯狂但很不均衡的反弹，消费者在商品上的支出超过了正常水平，使一直缺乏投资的全球供应链变得紧张。电子产品的需求在大流行期间蓬勃发展，但是里面的微芯片的短缺已经打击了一些出口经济体的工业生产，例如台湾。Delta变种的传播使亚洲部分地区的服装厂停工。在富裕国家，人口流动减少了，刺激措施让大家的银行账户都很宽裕，没有足够的工人愿意接受诸如在城市里卖三明治等不受欢迎的工作，也不愿转向仓储等急需工人的工作。从布鲁克林到布里斯班，雇主们都在疯狂争夺额外的人手。
 
 注释：
 
@@ -35,7 +35,7 @@ The immediate cause is covid-19. Some $10.4trn of global stimulus has unleashed 
 
 Yet the shortage economy is also the product of two deeper forces. First, decarbonisation. The switch from coal to renewable energy has left Europe, and especially Britain, vulnerable to a natural-gas supply panic that at one point this week had sent spot prices up by over 60%. A rising carbon price in the European Union’s emissions-trading scheme has made it hard to switch to other dirty forms of energy. Swathes of China have faced power cuts as some of its provinces scramble to meet strict environmental targets. High prices for shipping and tech components are now triggering increased capital expenditure to expand capacity. But when the world is trying to wean itself off dirty forms of energy, the incentive to make long-lived investments in the fossil-fuel industry is weak.
 
-然而，短缺经济也是两种更深层力量的产物。首先，去碳化。从煤炭到可再生能源的转换使欧洲，特别是英国，容易受到天然气供应恐慌的影响，本周天然气现货价格一度上涨超过60%。欧盟排放交易计划中不断上涨的碳价格使人们难以转向其他肮脏的能源形式。由于中国的一些省份急于达到严格的环境目标，中国的大片地区面临停电。船运和技术部件的高价格现在引发了扩大产能的资本支出。但是，当世界正在努力摆脱肮脏的能源形式时，在化石燃料行业进行长期投资的动力就很弱。
+然而，短缺经济也是两种更深层力量的产物。首先是去碳化。从煤炭到可再生能源的转换让欧洲，特别是英国，容易受到天然气供应恐慌的影响，本周天然气现货价格一度上涨超过60%。欧盟排放交易计划中不断上涨的碳定价使人们难以转向其他“非清洁”的能源形式。由于中国的一些省份急于达到严格的环境目标，中国的大片地区面临停电。船运和技术部件的高价格提高了扩大产能所需的资本支出。但是，当世界正在努力摆脱“非清洁”的能源的大潮中，对化石燃料行业进行长期投资的动力很弱。
 
 注释：
 
@@ -44,17 +44,17 @@ Yet the shortage economy is also the product of two deeper forces. First, decarb
 
 The second force is protectionism. As our special report explains, trade policy is no longer written with economic efficiency in mind, but in the pursuit of an array of goals, from imposing labour and environmental standards abroad to punishing geopolitical opponents.
 
-第二种力量是保护主义。正如我们的特别报告所解释的那样，贸易政策的制定不再考虑经济效率，而是为了追求一系列的目标，从在国外强加劳工和环境标准到惩罚地缘政治的对手。
+第二种力量是贸易保护主义。正如我们的特别报告所解释的那样，贸易政策的制定不再考虑经济效率，而是为了追求一系列的（其他）目标，其中既有对劳工和环境标准的长臂管辖，也有惩罚地缘政治对手的考量。
 
 
 This week Joe Biden’s administration confirmed that it would keep Donald Trump’s tariffs on China, which average 19%, promising only that firms could apply for exemptions (good luck battling the federal bureaucracy). Around the world, economic nationalism is contributing to the shortage economy. Britain’s lack of lorry drivers has been exacerbated by Brexit. India has a coal shortage in part because of a misguided attempt to cut imports of fuel. After years of trade tensions, the flow of cross-border investment by companies has fallen by more than half relative to world gdp since 2015.
 
-本周，乔-拜登的政府确认，它将保留唐纳德-特朗普对中国征收的平均19%的关税，只承诺企业可以申请豁免（与联邦官僚机构作斗争的好运）。在世界各地，经济民族主义正在助长短缺经济。英国缺乏卡车司机，这一点因英国脱欧而变得更加严重。印度出现了煤炭短缺，部分原因是错误地试图削减燃料的进口。经过多年的贸易紧张局势，自2015年以来，公司的跨境投资流量相对于世界gdp下降了一半以上。
+本周，拜登政府确认，它将保留特朗普政府对中国征收的平均19%的关税，只承诺企业可以申请豁免（祝那些与联邦官僚机构作斗争的公司好运吧）。在世界各地，经济民族主义正在加剧供给短缺问题。英国缺乏卡车司机，这一点因英国脱欧而变得更加严重。印度出现了煤炭短缺，部分原因是错误地试图削减燃料的进口。经过多年的贸易紧张局势，自2015年以来，公司的跨境投资流量相对于世界gdp占比下降了一半以上。
 
 
 All this might seem eerily reminiscent of the 1970s, when many places faced petrol-pump queues, double-digit price rises and sluggish growth. But the comparison gets you only so far. Half a century ago politicians got economic policy badly wrong, fighting inflation with futile measures like price controls and Gerald Ford’s “whip inflation now” campaign, which urged people to grow their own vegetables. Today the Federal Reserve is debating how to forecast inflation, but there is a consensus that central banks have the power and the duty to keep it in check.
 
-所有这一切似乎让人不由自主地想起1970年代，当时许多地方面临着加油站排队、两位数的价格上涨和低迷的增长。但这种比较只能让你到此为止。半个世纪前，政治家们在经济政策上犯了严重的错误，用价格控制和杰拉尔德-福特的 "现在就鞭打通货膨胀 "运动等徒劳的措施来对抗通货膨胀，该运动敦促人们自己种植蔬菜。今天，美联储正在争论如何预测通货膨胀，但有一个共识，即中央银行有权力和责任来控制通货膨胀。
+所有这一切似乎让人不由自主地想起1970年代，当时许多地方面临着加油站排队、两位数的价格上涨和低迷的增长。但这种比较并没有揭示深层的区别。半个世纪前，政治家们在经济政策上犯了严重的错误，用价格管制和福特总统鼓吹的的 "现在就鞭打通货膨胀 "运动等徒劳的措施来对抗通货膨胀（该运动敦促人们自己种植蔬菜）。今天，美联储正如何预测通货膨胀上观点不一，但大家在这一点上都有共识——即中央银行有权力和责任来控制通货膨胀。
 
 注释：
 
@@ -62,11 +62,11 @@ All this might seem eerily reminiscent of the 1970s, when many places faced petr
 
 For now, out-of-control inflation seems unlikely. Energy prices should ease after the winter. In the next year the spread of vaccines and new treatments for covid-19 should reduce disruptions. Consumers may spend more on services. Fiscal stimulus will wind down in 2022: Mr Biden is struggling to get his jumbo spending bills through Congress and Britain plans to raise taxes. The risk of a housing bust in China means that demand could even fall, restoring the sluggish conditions of the 2010s. And an investment boost in some industries will eventually translate into more capacity and higher productivity.
 
-目前，失控的通货膨胀似乎不太可能。能源价格在冬季过后应该有所缓解。在明年，疫苗的传播和对covid-19的新治疗方法应该减少干扰。消费者可能会在服务上花费更多。财政刺激措施将在2022年逐渐减少：拜登先生正在努力使他的巨额支出法案通过国会，英国计划增加税收。中国住房破裂的风险意味着需求甚至可能下降，恢复到2010年代的低迷状态。而一些行业的投资促进将最终转化为更多的产能和更高的生产力。
+目前，失控的通货膨胀似乎不太可能。能源价格在冬季过后应该有所缓解。在明年，疫苗的铺开和对covid-19的新治疗方法应该减少（供应链）中的问题。消费者可能会增加服务业上的支出。财政刺激措施将在2022年逐渐减弱：拜登先生正在努力让国会批准他的巨额支出法案，英国计划加税。中国房地产泡沫破碎的风险意味着需求甚至可能下降，恢复到2010年代的低迷状态。而一些行业的投资促进将最终转化为更多的产能和更高的生产力。
 
 But make no mistake, the deeper forces behind the shortage economy are not going away and politicians could easily end up with dangerously wrong-headed policies. One day, technologies such as hydrogen should help make green power more reliable. But that will not plug shortages right now. As fuel and electricity costs rise, there could be a backlash. If governments do not ensure that there are adequate green alternatives to fossil fuels, they may have to meet shortages by relaxing emissions targets and lurching back to dirtier sources of energy. Governments will therefore have to plan carefully to cope with the higher energy costs and slower growth that will result from eliminating emissions. Pretending that decarbonisation will result in a miraculous economic boom is bound to lead to disappointment.
 
-但不要搞错了，短缺经济背后的深层力量不会消失，政客们很容易以危险的错误政策收场。有一天，氢气等技术应该有助于使绿色电力更加可靠。但是，这不会在现在就堵塞短缺。随着燃料和电力成本的上升，可能会出现反弹。如果政府不确保有足够的绿色替代品来替代化石燃料，他们可能不得不通过放松排放目标和重新使用更肮脏的能源来满足短缺。因此，各国政府将不得不仔细计划，以应对消除排放所带来的更高的能源成本和更慢的增长。假装去碳化将导致奇迹般的经济繁荣，必然会导致失望。
+但不要搞错了，短缺经济背后的深层力量不会消失，政客们很容易最后陷入危险且错误政策泥沼。有一天，氢气等技术应该有助于使绿色电力更加可靠。但是，远水解不了近渴。随着燃料和电力成本的上升，（非清洁能源）可能会出现反扑。如果政府不确保有足够的绿色替代品来替代化石燃料，他们可能不得不通过放松排放目标和重新使用更肮脏的能源来应对短缺。因此，各国政府将不得不仔细计划，以应对消除排放所带来的更高的能源成本和更慢的增长。天真地认为去碳化将奇迹般地带来经济繁荣，终究会是一厢情愿。
 
 注释：
 
