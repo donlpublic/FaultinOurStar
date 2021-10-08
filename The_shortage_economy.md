@@ -76,7 +76,7 @@ But make no mistake, the deeper forces behind the shortage economy are not going
 
 The shortage economy could also reinforce the appeal of protectionism and state intervention. Many voters blame empty shelves and energy crises on the government. Politicians can escape responsibility by excoriating fickle foreigners and fragile supply chains, and by talking up the false promise of boosting self-reliance. Britain has already bailed out a fertiliser plant to maintain the supply of carbon dioxide, an input for the food industry. The government is trying to claim that labour shortages are good, because they will raise economy-wide wages and productivity. In reality, putting up barriers to migration and trade will, on average, cause both to fall.
 
-短缺经济也可能加强保护主义和国家干预的吸引力。许多选民将空荡荡的货架和能源危机归咎于政府。政客们可以通过指责善变的外国人和脆弱的供应链，以及高谈阔论促进自力更生的虚假承诺来逃避责任。英国已经对一家化肥厂进行了救助，以维持二氧化碳的供应，这是食品工业的一项投入。政府试图声称，劳动力短缺是好事，因为它们将提高整个经济的工资和生产力。实际上，为移民和贸易设置障碍，平均而言，会导致这两者的下降。
+短缺经济也可能提高保护主义和国家干预的吸引力。许多选民将空荡荡的货架和能源危机归咎于政府。政客们可以通过指责不可靠的的外国供给以及脆弱的供应链，并高谈阔论推进自给自足的虚假承诺来逃避责任。英国已经对一家化肥厂进行了救助，以维持二氧化碳的供应，二氧化碳对食品工业非常重要。政府试图辩护道，劳动力短缺是好事，因为它们将提高整个经济的工资和生产力。实际上，为移民和贸易设置障碍，一般而言，会导致这两者的下降。
 
 注释：
 1. 批判;痛斥;严厉指责 To excoriate a person or organization means to criticize them severely, usually in public.
@@ -85,8 +85,9 @@ The shortage economy could also reinforce the appeal of protectionism and state 
 The wrong lessons at the wrong time
 Disruptions often lead people to question economic orthodoxies. The trauma of the 1970s led to a welcome rejection of big government and crude Keynesianism. The risk now is that strains in the economy lead to a repudiation of decarbonisation and globalisation, with devastating long-term consequences. That is the real threat posed by the shortage economy. 
 
-在错误的时间得到错误的教训
-混乱往往导致人们质疑经济的正统观念。20世纪70年代的创伤导致了人们对大政府和粗暴的凯恩斯主义的拒绝，这是值得欢迎的。现在的风险是，经济中的压力导致了对去碳化和全球化的否定，并带来破坏性的长期后果。这就是短缺经济所带来的真正威胁。
+错误的时间得出错误的教训
+
+混乱往往导致人们质疑经济学的主流观念。20世纪70年代的创伤导致了人们对大政府和粗暴的凯恩斯主义的拒绝，这是值得欢迎的。现在的风险是，经济中的压力导致了对去碳化和全球化的否定，而这会带来破坏性的长期后果。这就是供给不足所带来的真正威胁。
 
 注释：
 1. 正统观念；普遍接受的观念 An orthodoxy is an accepted view about something.
